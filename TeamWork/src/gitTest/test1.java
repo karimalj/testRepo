@@ -6,17 +6,10 @@ public class test1 {
 		// TODO Auto-generated method stub
 
 
-		double x = Math.random(); //coin flip
 		
-		if (x>=0.5) {
-			System.out.println("Heads");
-		}
-		else {
-			System.out.print("Tails");
-		}
+		// this should now be empty
 		
-		// these are just some changes to see if it works in GitHub
-		// let's see if the password will save
+
 	}
 
 }
